@@ -33,7 +33,7 @@
                 <property key="ruleNanoflow" type="nanoflow" entityProperty="../gridEntity" required="false">
                     <caption>Nanoflow</caption>
                     <category>Behavior</category>
-                    <description>(Optional) A nanoflow that returns a boolean. If you don't use a nanoflow, you must define custom JavaScript instead.</description> 
+                    <description>(Optional) A nanoflow that returns a string. If you don't use a nanoflow, you must define custom JavaScript instead.</description> 
                     <returnType type="String" />
                 </property>   
                 <property key="position" type="enumeration" defaultValue="only">
